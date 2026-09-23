@@ -25,9 +25,16 @@ Backend Developer specializing in building scalable web applications, RESTful AP
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepaksoni2206&show_icons=true&theme=dark" alt="Deepak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksoni2206&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+### 📚 BookNexa
+Online bookstore application with authentication,
+cart, wishlist, orders and payment integration.
+
+### 🎓 FacultyBridge
+Education and faculty management platform with REST APIs,
+JWT authentication, AWS integration, and backend functionalities.
+
+### 🔧 MechBuddy
+Service marketplace backend featuring REST APIs, API testing,
+real-time communication, and notifications using Django Channels.
