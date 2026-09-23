@@ -8,7 +8,7 @@ Backend Developer specializing in building scalable web applications, RESTful AP
 - 💼 Currently working as a **Backend Developer**.
 - 🛠️ Tech Stack: **Python, Django, Django REST Framework, PostgreSQL, Redis, Celery**.
 - 🎯 Focus: Building fast backend APIs, microservices, and database optimization.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/deepaksoniconn) or via Email.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/deepaksoniconnect) or via Email.
 
 ---
 
