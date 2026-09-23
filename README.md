@@ -21,7 +21,7 @@ Backend Developer specializing in building scalable web applications, RESTful AP
 `PostgreSQL` · `MySQL` · `Redis` · `SQLite`
 
 **Tools & Architecture:**  
-`Git & GitHub` · `Celery` · `WebSockets` · `Postman` · `Linux`
+`Git & GitHub` · `Celery` · `WebSockets` · `Postman` · 
 
 ---
 
